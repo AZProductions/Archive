@@ -1,0 +1,15 @@
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\bin\Debug\net6.0\Archive.exe
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\bin\Debug\net6.0\Archive.deps.json
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\bin\Debug\net6.0\Archive.runtimeconfig.json
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\bin\Debug\net6.0\Archive.dll
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\bin\Debug\net6.0\ref\Archive.dll
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\bin\Debug\net6.0\Archive.pdb
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.csproj.AssemblyReference.cache
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.AssemblyInfoInputs.cache
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.AssemblyInfo.cs
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.csproj.CoreCompileInputs.cache
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.dll
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\ref\Archive.dll
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.pdb
+D:\Github\Archive\src\archive.azsoftware.eu.org\Archive\obj\Debug\net6.0\Archive.genruntimeconfig.cache
